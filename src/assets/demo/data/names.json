@@ -1,0 +1,8 @@
+{
+    "data":  [
+    {"name": "Sameer Asaad", "email": "sameerasaad@gmail.com","image": "assets/layout/images/avatar1.png"},
+    {"name": "Ammar Mekhlafi", "email": "ammar@gmail.com", "image": "assets/layout/images/avatar2.png"},
+    {"name": "Ammar Mekhlafi", "email": "ammar@gmail.com", "image": "assets/layout/images/avatar3.png"},
+    {"name": "Sameer Asaad", "email": "sameerasaad@gmail.com","image": "assets/layout/images/avatar4.png"}
+  ]
+}
